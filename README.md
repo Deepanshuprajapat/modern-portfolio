@@ -133,7 +133,7 @@ curl -X POST http://localhost:5000/api/contact \
 
 **Deepanshu Prajapat**
 - GitHub: [@Deepanshuprajapat](https://github.com/Deepanshuprajapat)
-- LinkedIn: [deepanshu-prajapat]([https://linkedin.com/in/deepanshu-prajapat](https://www.linkedin.com/in/deepanshu-prajapat-04769a30a/))
+- LinkedIn: https://www.linkedin.com/in/deepanshu-prajapat-04769a30a/
 
 ---
 
