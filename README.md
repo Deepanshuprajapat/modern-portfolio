@@ -2,7 +2,7 @@
 
 **Software Engineer | Python Developer | Backend Developer**
 
-> 🌐 Live at: https://modern-portfolio-3.onrender.com
+> 🌐 Live at:https://modern-portfolio-2-yapn.onrender.com
 
 ---
 
@@ -29,7 +29,7 @@ FLASK_DEBUG=true
 python app.py
 ```
 
-Open https://modern-portfolio-3.onrender.com in your browser.
+Open: https://modern-portfolio-2-yapn.onrender.com
 
 ---
 
