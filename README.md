@@ -2,7 +2,7 @@
 
 **Software Engineer | Python Developer | Backend Developer**
 
-> 🌐 Live at: [http://localhost:5000](http://localhost:5000) (via Flask)
+> 🌐 Live at: https://modern-portfolio-3.onrender.com
 
 ---
 
@@ -29,7 +29,7 @@ FLASK_DEBUG=true
 python app.py
 ```
 
-Open [http://localhost:5000](http://localhost:5000) in your browser.
+Open https://modern-portfolio-3.onrender.com in your browser.
 
 ---
 
